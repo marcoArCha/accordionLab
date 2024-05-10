@@ -3,6 +3,7 @@
 
 import { useState } from "react";
 import data from "../data";
+import "../App.css";
 
 
 
